@@ -1,0 +1,142 @@
+{
+  "blogs": [
+    {
+      "id": "50bc",
+      "title": "Zephyr's tale",
+      "body": "This is the tale of Zephyr. He likes to play CS, Richup, smashkart and uno.",
+      "author": "Zephyr",
+      "comments": [
+        {
+          "commentContent": "nn",
+          "commentAuthor": "ss",
+          "commentId": "5a41ad47-ccc7-4953-b9d0-4fca681663ea"
+        }
+      ]
+    },
+    {
+      "id": "913a",
+      "title": "Reyrey's prowess ",
+      "body": "Reyrey has been amazing at UNO for the last couple of weeks.",
+      "author": "Rey",
+      "comments": []
+    },
+    {
+      "id": "d23d",
+      "title": "asadsa",
+      "body": "asasdas",
+      "author": "Zephyr",
+      "comments": [
+        {
+          "commentContent": "sss",
+          "commentAuthor": "sss",
+          "commentId": "32c53c5c-65cb-40f3-8122-587d5bacb1b1"
+        },
+        {
+          "commentContent": "ffffs",
+          "commentAuthor": "sss",
+          "commentId": "1cab9d55-e467-4643-974a-099b7d01a806"
+        }
+      ]
+    },
+    {
+      "id": "01ff",
+      "title": "Whats up",
+      "body": "Hello everyone! This is Zephyr. Wondering from where I got this name? I actually got it from Zephyrnaut. It was a miscrit from Aerobia and was a powerful one.",
+      "author": "Zephyr",
+      "comments": [
+        {
+          "commentContent": "Nice",
+          "commentAuthor": "Reyrey",
+          "commentId": "caea6f5d-37ec-4849-bf9c-1721c815e12f"
+        }
+      ]
+    },
+    {
+      "id": "38cf",
+      "title": "hjbh",
+      "body": "hggfh",
+      "author": "fgdf",
+      "comments": [
+        {
+          "commentContent": "jhjk",
+          "commentAuthor": "vb",
+          "commentId": "071d86c5-b298-4442-a6ae-a514aa068061"
+        },
+        {
+          "commentContent": "jhjk",
+          "commentAuthor": "vb",
+          "commentId": "4ddf4b53-0ef0-4125-a6b2-036dbbce69ba"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "user": "Akash",
+      "password": "abc@123",
+      "id": "a4a0"
+    },
+    {
+      "id": "1504",
+      "username": "Rey",
+      "password": "$2a$10$qqdmf/E8Te7io6C5LOzUTuVxQ3Gh9xlS.aGoU.kIyeAgYJsSK86pu"
+    },
+    {
+      "id": "230b",
+      "username": "akash",
+      "password": "$2a$10$bc2YtOF/VjhZ8uGGvNDWROqLZbMlAmApWtBV/yFzTQJztel7YGGaC"
+    },
+    {
+      "id": "b2d6",
+      "username": "akash",
+      "password": "$2a$10$SAopk9rs68XrriXgN50XHOBV9LAmjnmfzpfOXKLpFwsc1ErgE5p7q"
+    },
+    {
+      "id": "832d",
+      "username": "akash",
+      "password": "$2a$10$vRoYGOdQpfiTeXIndfnbK.fqssMe36qvAd/N6i1edCVT2f7YZ5EVq"
+    },
+    {
+      "id": "64d2",
+      "username": "akash",
+      "password": "$2a$10$E78Q.6J5Bs8lUlpMC8IPDOXDJpOpsxwlWpRUMEdugyuvzodTMHgy."
+    },
+    {
+      "id": "5226",
+      "username": "akash",
+      "password": "$2a$10$/FN.DSjkYDSFYz7ntoVyueoBISDDDwzzJSctNdSw5uR4byB2iJld2"
+    },
+    {
+      "id": "e803",
+      "username": "abc",
+      "password": "$2a$04$RX7iODnwJTWucqhshp.HL.yAqfhB3QRrSGp.91ZI64ts2UT1SCEMm"
+    },
+    {
+      "id": "7a83",
+      "username": "abc",
+      "password": "$2a$04$wHeW4rOHaGiMbNLQtS/9AOl2pi3WdhMAC8/ijIodNj/RWzDYNxp8S"
+    },
+    {
+      "id": "b916",
+      "username": "r1",
+      "password": "$2a$10$xqQaa0jH9LSkIw8hgBgbs.4prJNy10NvxHP1IVf8VuLRC.J4ftt2O"
+    },
+    {
+      "id": "9bb4",
+      "username": "man",
+      "password": "$2a$10$FdCmZ3yIf147HTuzeDsQEeMNNB4w9S2bkHTDQkosZQN7Fl6eyOlhm"
+    },
+    {
+      "id": "51bd",
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc"
+    },
+    {
+      "id": "ec45",
+      "username": "h",
+      "email": "h@h",
+      "password": "h"
+    }
+  ]
+}
